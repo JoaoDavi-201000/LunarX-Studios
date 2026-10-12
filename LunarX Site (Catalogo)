@@ -272,78 +272,88 @@ Workspace | https://drive.google.com/file/d/1RiUfW_oAWnE1JoUd9xpZBFR5YHn9NWN9/vi
 Licença | https://raw.githubusercontent.com/LunaxStudios-Officiall/LunarX-Studios/refs/heads/LICENSE/LUNARX_AGENT_LICENSE.txt
 
 DESCRICAO:
+LunarX Agent V5.5
 
-# LunarX Agent V5.5
+Mais especialização. Mais criatividade. Mais capacidade de execução.
 
-### Mais especialização. Mais criatividade. Mais capacidade de execução.
+LunarX Agent é um sistema modular de inteligência artificial desenvolvido pela LunarX Studios para tornar diferentes modelos de IA mais organizados, especializados e preparados para trabalhar em tarefas e projetos reais.
 
-O **LunarX Agent** é um sistema modular desenvolvido pela **LunarX Studios** para ajudar modelos de inteligência artificial a trabalhar de forma mais organizada, especializada e eficiente.
+Você continua utilizando a inteligência artificial de sua preferência.
 
-Você continua utilizando a IA de sua preferência. O LunarX fornece Skills, métodos de pesquisa, procedimentos de execução e sistemas de qualidade para ampliar sua capacidade de trabalhar em projetos reais.
+O LunarX ajuda ela a trabalhar melhor.
 
-## O que há de novo na V5.5?
+O que há de novo na V5.5:
 
-A versão 5.5 representa uma evolução importante na arquitetura, no roteamento das habilidades e na continuidade de projetos.
+A versão 5.5 representa uma grande evolução no sistema de Skills, pesquisa, criatividade, roteamento, contexto e qualidade de execução.
 
-**440 Skills especializadas**
+440 Skills especializadas:
 
-O LunarX Agent e o LunarX Agent Workspace agora compartilham **440 Skills**, incluindo 40 novas especializações voltadas para:
+LunarX Agent e LunarX Agent Workspace agora possuem 440 Skills especializadas, incluindo 40 novas habilidades nas seguintes áreas:
 
-- Android Custom Kernel e Custom ROM, incluindo pesquisa técnica aprofundada.
-- Engenharia reversa, análise de binários e formatos desconhecidos.
-- Desenvolvimento de ferramentas e aplicações em Python.
-- Design e experiência do usuário.
-- Investigação de viabilidade de projetos aparentemente impossíveis.
+• Android Custom Kernel e Custom ROM
+• Pesquisa aprofundada sobre Kernel e Custom ROM
+• Engenharia reversa, binários e formatos desconhecidos
+• Desenvolvimento de ferramentas e aplicações em Python
+• Design e experiência do usuário
+• Investigação de projetos aparentemente impossíveis
 
-As habilidades anteriores também receberam melhorias, com atenção especial à pesquisa, criatividade, design, programação e engenharia de prompts.
+As Skills anteriores também foram aprimoradas, especialmente nas áreas de pesquisa, criatividade, programação, design e engenharia de prompts.
 
-**Roteamento mais inteligente**
+Skills escolhidas automaticamente:
 
-O LunarX identifica automaticamente as habilidades necessárias para cada tarefa, combinando especialistas conforme a complexidade do trabalho.
+Você não precisa decorar nomes ou comandos.
 
-Você não precisa conhecer os nomes das Skills nem solicitar manualmente sua utilização.
+O LunarX analisa cada tarefa e seleciona as habilidades mais adequadas, combinando diferentes especialistas quando necessário.
 
-**Pesquisa e criatividade aprimoradas**
+O objetivo é utilizar as capacidades disponíveis conforme a complexidade real do trabalho.
 
-A V5.5 reforça a investigação técnica, a comparação de fontes, a busca por soluções existentes e a exploração de caminhos alternativos.
+Pesquisa e criatividade aprimoradas:
 
-As habilidades criativas também foram aprimoradas para favorecer ideias mais originais, evitando soluções repetitivas ou excessivamente previsíveis.
+A V5.5 reforça a pesquisa técnica, a verificação de fontes, a investigação de tecnologias e a busca por soluções alternativas.
 
-**Contexto e recuperação de projetos**
+As habilidades criativas foram aprofundadas para explorar ideias mais originais e evitar resultados excessivamente semelhantes ou previsíveis.
 
-O sistema utiliza checkpoints em JSON para preservar decisões, informações importantes, progresso e próximos passos.
+O LunarX também pode investigar projetos considerados muito difíceis ou aparentemente impossíveis, buscando caminhos técnicos antes de descartar uma possibilidade.
 
-Os checkpoints Normal oferecem recuperação intermediária, enquanto os Big preservam um histórico mais profundo, permitindo retomar projetos longos com maior continuidade.
+Contexto e recuperação:
 
-**Qualidade antes da entrega**
+O sistema de checkpoints foi aprimorado para preservar informações importantes de projetos longos.
 
-O LunarX incorpora procedimentos de verificação técnica, preservação de projetos, testes, recuperação de falhas e autoavaliação.
+• Normal Checkpoint: registra o estado atual e as informações essenciais para recuperação.
+• Big Checkpoint: preserva um histórico mais profundo, incluindo decisões, testes, dificuldades e evolução do projeto.
 
-O objetivo é identificar problemas antes da entrega e buscar alternativas quando uma abordagem não funcionar.
+Os checkpoints utilizam arquivos JSON portáteis que permitem recuperar o contexto em outras sessões.
 
-## Quatro formas de utilizar
+Qualidade antes da entrega:
 
-**LunarX Agent:** versão principal, com 440 Skills para pesquisas, programação, criatividade e projetos complexos.
+O LunarX utiliza procedimentos internos de validação, preservação, verificação técnica e autoavaliação para identificar problemas antes de entregar resultados.
 
-**LunarX Agent Workspace:** compartilha as mesmas 440 Skills, com foco em arquivos, desenvolvimento, builds, ferramentas e ambientes de trabalho.
+Se uma abordagem falhar, o agente procura alternativas legítimas antes de considerar uma tarefa bloqueada.
 
-**LunarX Agent Estudos:** possui 200 Skills educacionais e uma abordagem de professor digital. Oferece cursos organizados em aulas e sessões, revisões rápidas, exercícios, provas, recuperação de aprendizagem e reconstrução de páginas de caderno em imagens legíveis.
+Quatro formas de utilizar o LunarX:
 
-**LunarX Agent GPTs:** opção de acesso ao LunarX diretamente pelo ChatGPT.
+LunarX Agent:
 
-## Inteligência com liberdade
+A versão principal, com 440 Skills para pesquisas, programação, criatividade, análise e projetos complexos.
 
-O LunarX não substitui o modelo de IA utilizado. Ele acrescenta uma estrutura especializada para ajudar esse modelo a pesquisar, desenvolver, criar, analisar e executar tarefas.
+LunarX Agent Workspace:
 
-As capacidades finais dependem do modelo, das ferramentas disponíveis e das limitações do ambiente.
+Compartilha as mesmas 440 Skills, com foco em arquivos, diretórios, ferramentas, builds e ambientes de desenvolvimento.
 
-**LunarX Agent — sua inteligência artificial, mais preparada para trabalhar com você.**
+LunarX Agent Estudos:
 
-### Créditos
+A versão especializada em aprendizagem, com 200 Skills educacionais.
 
-Criado e desenvolvido pela **LunarX Studios**.
+Pode atuar como professor digital, organizar cursos, aulas e sessões, aplicar avaliações, acompanhar dificuldades, oferecer reforço e recuperação, realizar revisões rápidas e transformar páginas de caderno em imagens organizadas e legíveis.
+
+LunarX Agent — sua inteligência artificial, mais preparada para trabalhar com você.
+
+Créditos:
+
+LunarX Agent foi criado e desenvolvido pela LunarX Studios.
 
 © 2026 LunarX Studios. Todos os direitos reservados.
+
 ---
 
 NOME: LunarX Builder
